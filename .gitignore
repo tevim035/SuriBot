@@ -1,0 +1,13 @@
+# Segredos e dados pessoais: nunca enviar para o GitHub
+.env
+emocoes.db
+emocoes.db-journal
+
+# Ambientes virtuais e caches
+venv/
+venv312/
+__pycache__/
+*.pyc
+
+# Configurações do editor
+.vscode/
